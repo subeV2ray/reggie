@@ -7,4 +7,7 @@ package com.sube.reggie;
  * @description
  */
 public class test {
+    public static void main(String[] args) {
+
+    }
 }
